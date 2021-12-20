@@ -15,3 +15,5 @@ Source for pytest and pytest coverage, this youtube playlist helped [pytest and 
 ### SonarCloud
 It integrate sonarclod, which for this public repo is free. SonarCloud testing for code smell, vulnabilities, bugs. 
 It requrie a sonar_token, you can get from sonarcloud website(very easy to setup) 
+For sonarCloud result, [click here](https://sonarcloud.io/dashboard?id=DevOps-T2_testing_python&branch=main)
+Note, after github is finish running, it also print the linkunder sonarCloud->sonarcloud scan.
